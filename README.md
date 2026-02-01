@@ -1,4 +1,5 @@
-## 🎓 Estudante de **Engenharia da Informação** na **UFABC**  
+## 🎓 Estudante de Engenharia da Informação — UFABC
 
-🚗  Monitoramento da Direção Veicular com Visão Computacional e Inteligência Artificial
-🌱  Protótipo de uma esteira que separa os materiais recicláveis
+## 🚀 Projetos
+🚗 **Monitoramento da Direção Veicular com Visão Computacional e Inteligência Artificial**  
+🌱 **Protótipo de uma esteira para separação de materiais recicláveis**
