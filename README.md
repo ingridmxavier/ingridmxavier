@@ -1,4 +1,4 @@
-🎓 Estudante de Engenharia da Informação — UFABC
+## 🎓 Estudante de Engenharia da Informação — UFABC
 
 🚀 Projetos
 - 🚗 Monitoramento da Direção Veicular com Visão Computacional e Inteligência Artificial
