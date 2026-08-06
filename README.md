@@ -7,4 +7,6 @@
 - 👁️ Detecção facial de idade com Visão Computacional e Deep Learning
 - 🛡️ Detecção de URLs Suspeitas e Phishing em Tempo Real
 
+Algumas das minhas skills:
+
   ![My Skills](https://skillicons.dev/icons?i=c,cpp,python,linux,github,matlab&theme=dark)
