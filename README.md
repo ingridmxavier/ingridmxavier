@@ -9,4 +9,4 @@
 
 Algumas das minhas skills:
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,raspberrypi,onnx,aws,gcp,powerbi,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,linux,python,matlab,tensorflow,pytorch,opencv,raspberrypi,aws,gcp,vscode" />
