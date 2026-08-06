@@ -10,4 +10,3 @@
 Algumas das minhas skills:
 
   ![My Skills](https://skillicons.dev/icons?i=c,cpp,python,linux,github,matlab&theme=dark)
-  ![Octave](https://img.shields.io/badge/Octave-0790C0?style=for-the-badge&logo=octave&logoColor=white)
