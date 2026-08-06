@@ -9,4 +9,4 @@
 
 Algumas das minhas skills:
 
-  ![My Skills](https://skillicons.dev/icons?i=c,cpp,python,linux,github,matlab&theme=dark)
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,raspberrypi,onnx,aws,gcp,powerbi,vscode" />
