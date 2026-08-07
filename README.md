@@ -6,6 +6,7 @@
 - 🚗 Detecção automática de Vagas de Estacionamento com Visão Computacional
 - 👁️ Detecção facial de idade com Visão Computacional e Deep Learning
 - 🛡️ Detecção de URLs Suspeitas e Phishing em Tempo Real
+- 🛍️ Sistema de Recomendação para E-commerce
 
 Algumas das minhas skills:
 
